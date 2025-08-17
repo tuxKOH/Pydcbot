@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 
 # 設定你的 bot token
-TOKEN = 'MTQwNjYwMTU3MjQxODU4NDY2OA.G0x21c.HUo-GQcSyNFCpw--V0vAhtPvxkAL9SPIuOEBcE'
+TOKEN = ''
 
 # 設定指令前綴
 bot = commands.Bot(command_prefix='?', intents=discord.Intents.all())
